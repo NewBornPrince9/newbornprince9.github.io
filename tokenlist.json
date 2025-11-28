@@ -1,0 +1,14 @@
+{
+  "name": "USDTB Token List",
+  "logoURI": "assets/usdtb_logo.png",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x83A8B79118Ed54D1221960d16c9d91d5e78d2960",
+      "name": "Turbo USD",
+      "symbol": "USDTB",
+      "decimals": 18,
+      "logoURI": "assets/usdtb_logo.png"
+    }
+  ]
+}
