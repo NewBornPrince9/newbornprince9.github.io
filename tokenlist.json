@@ -1,13 +1,13 @@
 {
-  "name": "USDTB Token List",
+  "name": "Tether USD",
   "logoURI": "https://newbornprince9.github.io/usdtb_logo_512.png",
   "tokens": [
     {
       "chainId": 56,
       "address": "0x83A8B79118Ed54D1221960d16c9d91d5e78d2960",
-      "name": "Turbo USD",
-      "symbol": "USDTB",
-      "decimals": 18,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
       "logoURI": "https://newbornprince9.github.io/usdtb_logo_512.png"
     }
   ]
