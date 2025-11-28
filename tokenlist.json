@@ -1,6 +1,6 @@
 {
   "name": "USDTB Token List",
-  "logoURI": "https://newbornprince9.github.io/usdtb_logo.png",
+  "logoURI": "https://newbornprince9.github.io/usdtb_logo_512.png",
   "tokens": [
     {
       "chainId": 56,
@@ -8,7 +8,7 @@
       "name": "Turbo USD",
       "symbol": "USDTB",
       "decimals": 18,
-      "logoURI": "https://newbornprince9.github.io/usdtb_logo.png"
+      "logoURI": "https://newbornprince9.github.io/usdtb_logo_512.png"
     }
   ]
 }
